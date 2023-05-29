@@ -25,3 +25,7 @@ Resposta: Primeiramente, para que possamos encontrar o output esperado, é neces
 
 
 Desta forma, o output esperado seria uma nova imagem com os pixels: [226,116,119,55]
+
+## Questão 2: 
+
+A imagem solicitada, com o filtro de inversão aplicada está presente na imagem chamada 'Questao2.png', nesse repositório.
