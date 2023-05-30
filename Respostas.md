@@ -43,3 +43,7 @@ Os cálculos a seguir foram realizados para, posteriormente, descobrir o valor d
 **Somando todos os resultados: 0 + (-3.71) + 0 + (-58.05) + 152.4 + (-37) + 0 + (-20.88) + 0 = 32.86**
 
 Portanto, o pixel central valerá, aproximadamente, **32.86.**
+
+## Questão 4:
+
+A imagem solicitada, com os cálculos de kernel aplicado, está salvo nesse repositório com o nome de questao4.png
