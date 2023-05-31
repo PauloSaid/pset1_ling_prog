@@ -79,3 +79,21 @@ resultado =
 **Imagem da Questão 5.1:**
 
 ![Imagem 5.1](https://github.com/PauloSaid/pset1_ling_prog/blob/main/questao51.png)
+
+## Questão 6:
+
+Kernel Kx:
+-1 0 1
+-2 0 2
+-1 0 1
+
+**Explicação**: O kernel acima é responsável pela detecção das variações horizontais. Este kernel é utilizado para calcular na def bordas as diferentes intensidades de direção horizontal.
+
+Kernel Ky:
+-1 -2 -1
+0 0 0
+1 2 1
+
+**Explicação**: O kernel acima (kernel Ky) é responsável pela detecção das variações verticais. Esse kernel é utilizado para calcular na def bordas as diferentes intensidades de direção vertical.
+
+OBS.: Os dois kernels são utilizados para realizar o cálculo de lacunas, no método de Lewis Sorel.
