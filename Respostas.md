@@ -54,3 +54,4 @@ A imagem solicitada, com os cálculos de kernel aplicado, está exibida a seguir
 
 ## Questão 5:
 
+Resposta: Para calcular toda imagem nítida com apenas uma correlação, é preciso usar um kernel k que seja é a diferença entre um kernel de nitidez e o kernel de desfoque de caixa 3x3.
