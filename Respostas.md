@@ -73,3 +73,7 @@ resultado =
 (10 *  k(x, y)) + (10 *  k(x, y)) + (10 *  k(x, y)) +
 
 (10 *  k(x, y)) + (10 *  k(x, y)) + (10 *  k(x, y))
+
+**Imagem da Questão 5.1:**
+
+![Imagem 5.1](https://github.com/PauloSaid/pset1_ling_prog/blob/main/questao51.png)
