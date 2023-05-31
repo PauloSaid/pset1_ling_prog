@@ -28,7 +28,9 @@ Desta forma, o output esperado seria uma nova imagem com os pixels: [226,116,119
 
 ## Questão 2: 
 
-A imagem solicitada, com o filtro de inversão aplicada, está presente na imagem chamada 'questao2.png', nesse repositório.
+A imagem solicitada, com o filtro de inversão aplicada, está exibida a seguir:
+
+![Imagem Q2](https://github.com/PauloSaid/pset1_ling_prog/blob/main/questao2.png)
 
 ## Questão 3:
 
@@ -40,10 +42,15 @@ Os cálculos a seguir foram realizados para, posteriormente, descobrir o valor d
 
 **3 Pixels de baixo: 0.00 * 175 + (-0.12) * 174 + 0.00 * 193**
 
-**Somando todos os resultados: 0 + (-3.71) + 0 + (-58.05) + 152.4 + (-37) + 0 + (-20.88) + 0 = 32.86**
+**Somando todos os resultados: 0 + (-3.71) + 0 + (-58.05) + 152.4 + (-37) + 0 + (-20.88) + 0 = 32.76**
 
 Portanto, o pixel central valerá, aproximadamente, **32.86.**
 
 ## Questão 4:
 
-A imagem solicitada, com os cálculos de kernel aplicado, está salvo nesse repositório com o nome de questao4.png
+A imagem solicitada, com os cálculos de kernel aplicado, está exibida a seguir:
+
+![Imagem Q4](https://github.com/PauloSaid/pset1_ling_prog/blob/main/questao4.png)
+
+## Questão 5:
+
