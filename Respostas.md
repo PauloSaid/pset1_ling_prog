@@ -97,3 +97,7 @@ Kernel Ky:
 **Explicação**: O kernel acima (kernel Ky) é responsável pela detecção das variações verticais. Esse kernel é utilizado para calcular na def bordas as diferentes intensidades de direção vertical.
 
 OBS.: Os dois kernels são utilizados para realizar o cálculo de lacunas, no método de Lewis Sorel.
+
+Imagem que representa tal cálculo:
+
+![Imagem 6](https://github.com/PauloSaid/pset1_ling_prog/blob/main/questao6.png)
